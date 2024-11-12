@@ -1,0 +1,8 @@
+# Ignore the target/ folder
+target/
+
+# Ignore IDE configuration files (e.g., VSCode)
+.vscode/
+
+# Ignore the Cargo.lock file for library projects (only needed for applications)
+Cargo.lock
